@@ -6,17 +6,17 @@ const Process = () => {
     {
   image: pickrose,
   title: "Pick Flower",
-  text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et sagittis duis elementum interdum facilisi bibendum.",
+  text: "paragraph on picking roses, paragraph on picking roses, paragraph on picking roses,paragraph on picking roses.",
 },
 {
   image: pickrose,
-  title: "Pick Meals",
-  text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et sagittis duis elementum interdum facilisi bibendum.",
+  title: "Customize flower",
+  text: "Paragraph on customize flower, Paragraph on customize flower, Paragraph on customize flower, Paragraph on customize flower.   ",
 },
 {
   image: pickrose,
-  title: "Pick Meals",
-  text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et sagittis duis elementum interdum facilisi bibendum.",
+  title: "Wrapping flowers ",
+  text: " Paragraph on Wrapping flowers Paragraph on Wrapping flowers Paragraph on Wrapping flowers Paragraph on Wrapping flowers  .",
 },
 
 ];
