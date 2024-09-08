@@ -1,0 +1,13 @@
+To remove background from image use; https://www.remove.bg/upload
+    * Use this for logo.png, another transparent images
+or  Using pligin with figma, look at vidoe, https://www.youtube.com/watch?v=EBHucO1RFWQ
+
+Make cirle image of a rose image 
+https://www.youtube.com/watch?v=KQuLdg8Jyds
+
+how to download/use cirle image:
+  right click image
+  click/hover copy/paste 
+  copy PNG
+  Go to project asset in vsCode and paste it. 
+   
